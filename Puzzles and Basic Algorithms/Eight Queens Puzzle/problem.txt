@@ -1,0 +1,2 @@
+Originally the problem is to find the number of ways you can place 8 queens on an 8 x 8 chessboard such that no two queens threaten each other.
+But this problem is an extension of the original problem to find number of ways you can place n queens on an n x n chessboard such that no two queens threaten each other.
