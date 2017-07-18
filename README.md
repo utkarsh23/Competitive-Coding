@@ -11,6 +11,6 @@ These are my solutions to problems from various competitive coding websites and 
 ## Project Euler
 ![Image of Project Euler Profile](https://projecteuler.net/profile/utkarsh_23.png)
 
-I haven't posted solutions to these problems, honoring the request of Project Euler that requires every user to post solutions in their forums only.
+I haven't posted solutions to these problems, honoring the request of Project Euler that every user post their solutions in their forums only.
 
 Drop me a mail if you're stuck on any problem I might have solved or if you're looking for my Friend Key.
