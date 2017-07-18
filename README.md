@@ -4,6 +4,7 @@ These are my solutions to problems from various competitive coding websites and 
 * [HackerEarth](https://www.hackerearth.com/) (utkarsh2305)
 * [HackerRank](https://www.hackerrank.com/) (utkarshp2305)
 * [Google Code Jam](https://code.google.com/codejam/)
+* [CodeChef](https://www.codechef.com/) (utkarsh_23)
 ## Languages
 * C++11
 * Python 2.7.6
